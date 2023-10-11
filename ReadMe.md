@@ -12,3 +12,6 @@
 [KDV Tutari Hesaplayan Program](/projects/KDV-Tutari-Hesaplayan-Program)
 
 [Ucgende Hipotenus Ve Alan Bulan Program](/projects/Ucgende-Hipotenus-Ve-Alan-Bulan-Program)
+
+[Taksimetre-Programi](/projects/Taksimetre-Programi)
+
