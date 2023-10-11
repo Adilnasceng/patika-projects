@@ -6,3 +6,5 @@
 [Merge Sort](/projects/Merge-Sort.md)
 
 [Binary Search tree](/projects/Binary-search-tree.md)
+
+[Not Ortalamasi Hesaplayan Program](/projects/Not-Ortalamasi-Hesaplayan-Program)
