@@ -10,3 +10,5 @@
 [Not Ortalamasi Hesaplayan Program](/projects/Not-Ortalamasi-Hesaplayan-Program)
 
 [KDV Tutari Hesaplayan Program](/projects/KDV-Tutari-Hesaplayan-Program)
+
+[Ucgende Hipotenus Ve Alan Bulan Program](/projects/Ucgende-Hipotenus-Ve-Alan-Bulan-Program)
