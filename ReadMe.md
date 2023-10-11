@@ -13,5 +13,7 @@
 
 [Ucgende Hipotenus Ve Alan Bulan Program](/projects/Ucgende-Hipotenus-Ve-Alan-Bulan-Program)
 
-[Taksimetre-Programi](/projects/Taksimetre-Programi)
+[Taksimetre Programi](/projects/Taksimetre-Programi)
+
+[Dairenin Alanın Cevresini Dilimini Hesaplayan Program](/projects/Dairenin-Alanın-Cevresini-Dilimini-Hesaplayan-Program)
 
