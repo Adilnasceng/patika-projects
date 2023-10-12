@@ -24,3 +24,5 @@
 [Hesap Makinesi](projects/Hesap-Makinesi)
 
 [Kullanici Girisi](projects/Kullanici-Girisi)
+
+[Sinifi Gecme Durumu](projects/Sinifi-Gecme-Durumu)
