@@ -26,3 +26,5 @@
 [Kullanici Girisi](projects/Kullanici-Girisi)
 
 [Sinifi Gecme Durumu](projects/Sinifi-Gecme-Durumu)
+
+[Hava Sicakligina Gore Etkinlik Onerme](projects/Hava-Sicakligina-Gore-Etkinlik-Onerme)
