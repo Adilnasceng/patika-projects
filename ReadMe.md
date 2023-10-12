@@ -28,3 +28,5 @@
 [Sinifi Gecme Durumu](projects/Sinifi-Gecme-Durumu)
 
 [Hava Sicakligina Gore Etkinlik Onerme](projects/Hava-Sicakligina-Gore-Etkinlik-Onerme)
+
+[Sayilari Buyukten Kucuge Siralama](projects/Sayilari-Buyukten-Kucuge-Siralama)
