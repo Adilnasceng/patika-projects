@@ -34,3 +34,5 @@
 [Burc Bulan Program](projects/Burc-Bulan-Program)
 
 [Bilet Hesaplama](projects/Bilet-Hesaplama)
+
+[Cin Zodyagi Hesaplama](projects/Cin-Zodyagi-Hesaplama)
