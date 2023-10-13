@@ -36,3 +36,5 @@
 [Bilet Hesaplama](projects/Bilet-Hesaplama)
 
 [Cin Zodyagi Hesaplama](projects/Cin-Zodyagi-Hesaplama)
+
+[Artik-Yil-Hesaplama](projects/Artik-Yil-Hesaplama)
