@@ -41,3 +41,5 @@
 
 [Uce Ve Dorde Bolme](Java101/Uce-Ve-Dorde-Bolme)
 
+[Dorde Bolunen Toplama](Java101/Dorde-Bolunen-Toplama)
+
