@@ -46,3 +46,5 @@
 [Dord Ve Besin Kuvvetleri](Java101/Dord-Ve-Besin-Kuvvetleri)
 
 [Kombinasyon Hesaplayici](Java101/Kombinasyon-Hesaplayici)
+
+[Sayinin Ussunu Hesaplama](Java101/Sayinin-Ussunu-Hesaplama)
