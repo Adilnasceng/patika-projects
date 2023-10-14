@@ -48,3 +48,5 @@
 [Kombinasyon Hesaplayici](Java101/Kombinasyon-Hesaplayici)
 
 [Sayinin Ussunu Hesaplama](Java101/Sayinin-Ussunu-Hesaplama)
+
+[Armstrong Sayi Hesaplama](Java101/Armstrong-Sayi-Hesaplama)
