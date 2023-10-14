@@ -1,40 +1,43 @@
 # Patika Projects
 
 
-[Sorting Algorithmics](/projects/Sorting-algorithmics.md)
+[Sorting Algorithmics](/Java101/Sorting-algorithmics.md)
 
-[Merge Sort](/projects/Merge-Sort.md)
+[Merge Sort](/Java101/Merge-Sort.md)
 
-[Binary Search tree](/projects/Binary-search-tree.md)
+[Binary Search tree](/Java101/Binary-search-tree.md)
 
-[Not Ortalamasi Hesaplayan Program](/projects/Not-Ortalamasi-Hesaplayan-Program)
+[Not Ortalamasi Hesaplayan Program](/Java101/Not-Ortalamasi-Hesaplayan-Program)
 
-[KDV Tutari Hesaplayan Program](/projects/KDV-Tutari-Hesaplayan-Program)
+[KDV Tutari Hesaplayan Program](/Java101/KDV-Tutari-Hesaplayan-Program)
 
-[Ucgende Hipotenus Ve Alan Bulan Program](/projects/Ucgende-Hipotenus-Ve-Alan-Bulan-Program)
+[Ucgende Hipotenus Ve Alan Bulan Program](/Java101/Ucgende-Hipotenus-Ve-Alan-Bulan-Program)
 
-[Taksimetre Programi](/projects/Taksimetre-Programi)
+[Taksimetre Programi](/Java101/Taksimetre-Programi)
 
-[Dairenin Alanın Cevresini Dilimini Hesaplayan Program](/projects/Dairenin-Alanın-Cevresini-Dilimini-Hesaplayan-Program)
+[Dairenin Alanın Cevresini Dilimini Hesaplayan Program](/Java101/Dairenin-Alanın-Cevresini-Dilimini-Hesaplayan-Program)
 
-[Vucut Kitle Endeksini Hesaplayan Program](projects/Vucut-Kitle-Endeksini-Hesaplayan-Program)
+[Vucut Kitle Endeksini Hesaplayan Program](Java101/Vucut-Kitle-Endeksini-Hesaplayan-Program)
 
-[Manav Kasa Programi](projects/Manav-Kasa-Programi)
+[Manav Kasa Programi](Java101/Manav-Kasa-Programi)
 
-[Hesap Makinesi](projects/Hesap-Makinesi)
+[Hesap Makinesi](Java101/Hesap-Makinesi)
 
-[Kullanici Girisi](projects/Kullanici-Girisi)
+[Kullanici Girisi](Java101/Kullanici-Girisi)
 
-[Sinifi Gecme Durumu](projects/Sinifi-Gecme-Durumu)
+[Sinifi Gecme Durumu](Java101/Sinifi-Gecme-Durumu)
 
-[Hava Sicakligina Gore Etkinlik Onerme](projects/Hava-Sicakligina-Gore-Etkinlik-Onerme)
+[Hava Sicakligina Gore Etkinlik Onerme](Java101/Hava-Sicakligina-Gore-Etkinlik-Onerme)
 
-[Sayilari Buyukten Kucuge Siralama](projects/Sayilari-Buyukten-Kucuge-Siralama)
+[Sayilari Buyukten Kucuge Siralama](Java101/Sayilari-Buyukten-Kucuge-Siralama)
 
-[Burc Bulan Program](projects/Burc-Bulan-Program)
+[Burc Bulan Program](Java101/Burc-Bulan-Program)
 
-[Bilet Hesaplama](projects/Bilet-Hesaplama)
+[Bilet Hesaplama](Java101/Bilet-Hesaplama)
 
-[Cin Zodyagi Hesaplama](projects/Cin-Zodyagi-Hesaplama)
+[Cin Zodyagi Hesaplama](Java101/Cin-Zodyagi-Hesaplama)
 
-[Artik-Yil-Hesaplama](projects/Artik-Yil-Hesaplama)
+[Artik Yil Hesaplama](Java101/Artik-Yil-Hesaplama)
+
+[Uce Ve Dorde Bolme](Java101/Uce-Ve-Dorde-Bolme)
+
