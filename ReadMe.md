@@ -50,3 +50,6 @@
 [Sayinin Ussunu Hesaplama](Java101/Sayinin-Ussunu-Hesaplama)
 
 [Armstrong Sayi Hesaplama](Java101/Armstrong-Sayi-Hesaplama)
+
+[Harmonik Seri](Java101/Harmonik-Seri)
+
