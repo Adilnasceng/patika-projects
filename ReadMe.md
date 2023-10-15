@@ -53,3 +53,5 @@
 
 [Harmonik Seri](Java101/Harmonik-Seri)
 
+[Elmas Yapimi](Java101/Elmas-Yapimi)
+
