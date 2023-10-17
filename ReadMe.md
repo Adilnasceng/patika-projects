@@ -66,3 +66,5 @@
 [Ters Ucgen](Java101/Ters-Ucgen)
 
 [Asal Sayi](Java101/Asal-Sayi)
+
+[Fibonnaci](Java101/Fibonnaci)
