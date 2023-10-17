@@ -58,3 +58,5 @@
 [Atm Projesi](Java101/Atm-Projesi)
 
 [Ebob Ekok](Java101/Ebob-Ekok)
+
+[Min max](Java101/Ebob-Ekok)
