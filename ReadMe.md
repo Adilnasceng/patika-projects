@@ -62,3 +62,5 @@
 [Min max](Java101/Ebob-Ekok)
 
 [Mukemmel Sayi](Java101/Mukemmel-Sayi)
+
+[Ters Ucgen](Java101/Ters-Ucgen)
