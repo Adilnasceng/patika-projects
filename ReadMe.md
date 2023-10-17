@@ -56,3 +56,5 @@
 [Elmas Yapimi](Java101/Elmas-Yapimi)
 
 [Atm Projesi](Java101/Atm-Projesi)
+
+[Ebob Ekok](Java101/Ebob-Ekok)
