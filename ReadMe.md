@@ -76,3 +76,5 @@
 [Gelismis Hesap-Makinesi](Java101/Gelismis-Hesap-Makinesi)
 
 [Recursive Us Alma](Java101/Recursive-Us-Alma)
+
+[Recursive Asal Bulma](Java101/Recursive-Asal-Bulma)
