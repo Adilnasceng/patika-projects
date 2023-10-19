@@ -68,3 +68,5 @@
 [Asal Sayi](Java101/Asal-Sayi)
 
 [Fibonnaci](Java101/Fibonnaci)
+
+[Polindrom Sayi](Java101/Polindrom-Sayi)
