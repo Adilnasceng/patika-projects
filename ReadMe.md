@@ -86,3 +86,5 @@
 [Employee](Java101/Employee)
 
 [Harmonik Ortalama](Java101/Harmonik-Ortalama)
+
+[En Yakin Sayi Bulma](Java101/En-Yakin-Sayi-Bulma)
