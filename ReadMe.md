@@ -84,3 +84,5 @@
 [Boks Oyunu](Java101/Boks-Oyunu)
 
 [Employee](Java101/Employee)
+
+[Harmonik Ortalama](Java101/Harmonik-Ortalama)
