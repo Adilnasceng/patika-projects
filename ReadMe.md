@@ -93,3 +93,4 @@
 
 [Tekrarlayan Numaralar](Java101/Tekrarlayan-Numaralar)
 
+[Dizi Elemanlari Siralama](Java101/Dizi-Elemanlari-Siralama)
