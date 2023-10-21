@@ -90,3 +90,6 @@
 [En Yakin Sayi Bulma](Java101/En-Yakin-Sayi-Bulma)
 
 [B Harfini Yazdirma](Java101/B-Harfini-Yazdirma)
+
+[Tekrarlayan Numaralar](Java101/Tekrarlayan-Numaralar)
+
