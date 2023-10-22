@@ -96,3 +96,5 @@
 [Dizi Elemanlari Siralama](Java101/Dizi-Elemanlari-Siralama)
 
 [Dizi Frekansi Bulma](Java101/Dizi-Frekansi-Bulma)
+
+[Matris Transpozu](Java101/Matris-Transpozu)
