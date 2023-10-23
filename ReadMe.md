@@ -98,3 +98,5 @@
 [Dizi Frekansi Bulma](Java101/Dizi-Frekansi-Bulma)
 
 [Matris Transpozu](Java101/Matris-Transpozu)
+
+[Sayi Tahmin Oyunu](Java101/Sayi-Tahmin-Oyunu)
