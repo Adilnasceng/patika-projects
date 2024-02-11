@@ -104,3 +104,5 @@
 [Polindromik Kelime](Java101/Polindromik-Kelime)
 
 [Mayin Tarlasi](Java101/Mayin-Tarlasi)
+
+deneme
